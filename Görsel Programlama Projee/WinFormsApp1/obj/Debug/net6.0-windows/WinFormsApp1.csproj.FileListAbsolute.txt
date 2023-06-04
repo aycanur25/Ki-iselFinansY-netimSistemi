@@ -1,0 +1,45 @@
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Dashboard.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gelirgörüntülemesayfası.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gelirsayfası.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gidergörüntülemesayfası.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gidersayfası.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Girişsayfası.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıtol.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\AYÇANUR\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Dashboard.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gelirgörüntülemesayfası.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gelirsayfası.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gidergörüntülemesayfası.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gidersayfası.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Girişsayfası.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıtol.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\HP\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

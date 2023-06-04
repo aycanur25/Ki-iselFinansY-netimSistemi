@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gelirgörüntülemesayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gelirsayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gidergörüntülemesayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gidersayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Girişsayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kayıtol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
